@@ -2,3 +2,5 @@
 QF git_course
 
 learning...
+
+git command
